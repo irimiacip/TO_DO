@@ -1,0 +1,7 @@
+1. Lost password login jenkins
+  
+   go to .jenkins folder ==> confing.xml file ==> change use security from true to false
+   
+2. Clone Job in Jenkins 
+    
+    new job ==> copy from ==> the name of the job that will be dublicate ==> insert the name of the new job ==> okay
