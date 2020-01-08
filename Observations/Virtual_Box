@@ -1,0 +1,4 @@
+improve video grafic memeory 
+
+  You need to shut down the virtual OS before you can edit settings.
+  VBoxManage modify vm "Name of VM" --vram 256
