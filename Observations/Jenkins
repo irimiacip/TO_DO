@@ -5,3 +5,10 @@
 2. Clone Job in Jenkins 
     
     new job ==> copy from ==> the name of the job that will be dublicate ==> insert the name of the new job ==> okay
+    
+ 3. No password Jenkins
+ 
+    Fara passord este posibil sa nu mai mearga conectarea la GIT
+    In acesta situatie se porneste Jenkinsul  : java -jar ......... -Djavax.net.ssl.trustStore="keystore"
+
+    
