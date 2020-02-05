@@ -3,4 +3,6 @@ am pus windows si masina este configurata
 Bloking Point : 
     - DEV 
          nu se pot executa scripturile de UI dupa masina de DEV
+         request prcessor pe pp1 dupa masina de DEV nu ajunge in DB de PL pp1
+         de clarificat cum se poate rula un dockerfile cu parametrii
      
